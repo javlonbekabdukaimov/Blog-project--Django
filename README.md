@@ -1,0 +1,2 @@
+# Blog project (Django)
+ 
